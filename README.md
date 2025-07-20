@@ -1,4 +1,4 @@
-# 🧠 Brain-Computer Interface (BCI) Project
+# Brain Computer Interface(BCI) 
 
 Explore the fascinating world of Brain-Computer Interfaces using **Brainsense**, **Arduino**, **MATLAB**, and **NeuroView**. This project covers the fundamentals of neuroscience, EEG signal processing, and real-time brain-controlled applications.
 
